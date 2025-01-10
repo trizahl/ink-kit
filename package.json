@@ -9,7 +9,7 @@
     "/dist"
   ],
   "exports": {
-    ".": {
+    ".": {awdwadawdawd
       "types": "./dist/index.d.ts",
       "import": "./dist/index.es.js",
       "require": "./dist/index.cjs.js"
